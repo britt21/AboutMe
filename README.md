@@ -13,6 +13,7 @@ My Names is Bright Ebube Ugwu and i am an Senior Android Developer with over 4 y
 * Memory Leak Testing.
 * Integration Testing
 * Performance Testing.
+##### 100% Kotlin
 
 ![jetp](https://user-images.githubusercontent.com/82580142/170806066-0f127457-c705-4a96-927e-0cb24f99f840.jpg)
 
@@ -34,6 +35,8 @@ A Food Delivery Application
 * Memory Leak Testing.
 * Performance Testing.
 * Deploy app to the playstore.
+##### 100% Kotlin
+
 
 ![arc](https://user-images.githubusercontent.com/82580142/170806157-de80e8c6-1061-41f8-98e0-e2f0c034ae40.jpg)
 
@@ -52,6 +55,8 @@ A Currency Converter App
 * Memory Leak Testing.
 * Performance Testing.
 * Deploy app to the playstore.
+##### 100% Kotlin
+
 
 ### Link to project : 
 https://github.com/britt21/Coversion
