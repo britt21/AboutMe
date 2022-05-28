@@ -17,7 +17,6 @@ My Names is Bright Ebube Ugwu and i am an Senior Android Developer with over 4 y
 ### Link to project : 
 https://play.google.com/store/apps/details?id=com.capricorn.baximobile.app&hl=en&gl=US
 
-
 ## Crunch(ESoft-Response)
 A Food Ordering Application Created to get food delivered at users Door step
 
@@ -35,15 +34,3 @@ A Food Ordering Application Created to get food delivered at users Door step
 ![crunch1](https://user-images.githubusercontent.com/82580142/170805704-69f96dc4-75d6-4371-a05d-d78b4c60ff86.png)
 
 
-
-
-
-
-![cr3](https://user-images.githubusercontent.com/82580142/170805133-4023417e-ef90-4118-aa8a-b80cf505b45f.png) 
-![crunch1](https://user-images.githubusercontent.com/82580142/170805134-3aac3a4a-6992-4fe6-b5f5-13f7b99a7beb.png)
-
-
-
-
-![conversion](https://user-images.githubusercontent.com/82580142/170805052-ffa46280-726d-43cd-a0af-ba0da6697d03.png)
-## Conversion
