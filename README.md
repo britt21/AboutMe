@@ -7,11 +7,19 @@ My Names is Bright Ebube Ugwu and i am an Senior Android Developer with over 4 y
 
 ## Baxi Mobile(Pos - Payment System)
 
-![cr3](https://user-images.githubusercontent.com/82580142/170805133-4023417e-ef90-4118-aa8a-b80cf505b45f.png)
+![cr3](https://user-images.githubusercontent.com/82580142/170805133-4023417e-ef90-4118-aa8a-b80cf505b45f.png) 
 ![crunch1](https://user-images.githubusercontent.com/82580142/170805134-3aac3a4a-6992-4fe6-b5f5-13f7b99a7beb.png)
 
-
 ## Crunch
+A Food Ordering Application Created to get food delivered at users Door step
+
+### Major Role
+* Integrating Figma Design Into apps implementation
+* Modularization 
+* Perform Unit Testing, End to End Testing Speed Testing.
+* Memory Leak Testing.
+* Performance Testing.
+* Deploy app to the playstore.
 
 ![conversion](https://user-images.githubusercontent.com/82580142/170805052-ffa46280-726d-43cd-a0af-ba0da6697d03.png)
 ## Conversion
