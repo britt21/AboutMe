@@ -7,7 +7,7 @@ My Names is Bright Ebube Ugwu and i am an Senior Android Developer with over 4 y
 
 ## Baxi Mobile(Pos - Payment System)
 
-![cr2](https://user-images.githubusercontent.com/82580142/170805131-3babfe2a-6cfb-46ff-9be8-83bff3fadf36.png) ![cr3](https://user-images.githubusercontent.com/82580142/170805133-4023417e-ef90-4118-aa8a-b80cf505b45f.png)
+![cr3](https://user-images.githubusercontent.com/82580142/170805133-4023417e-ef90-4118-aa8a-b80cf505b45f.png)
 ![crunch1](https://user-images.githubusercontent.com/82580142/170805134-3aac3a4a-6992-4fe6-b5f5-13f7b99a7beb.png)
 
 
