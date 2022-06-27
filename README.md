@@ -2,7 +2,7 @@
 My Names is Bright Ebube Ugwu and i am an Senior Android Developer with over 4 years of experience building Mobile applications. I have a B.S.c degree in computer science, thus I have a solid foundation in the field also with a proven track record of delivering well-received and commercially viable apps. I help organizations develop end-to-end mobile applications from defining to design to its implementation. I have worked on wireframe designs, figma designs, integrating apps with APIs, designing UI's, and conducting google technical workshops.
 
 # Professional Apps Created
-### WayaBank (Mobile - Payment System)(Waya-Multilinks)
+# WayaBank (Mobile - Payment System)(Waya-Multilinks)
 
 ![WAYABANK – Figma - Google Chrome 6_28_2022 3_16_43 AM (2)](https://user-images.githubusercontent.com/82580142/175964267-64cd05c1-dfba-468e-a27c-f3c91b884bcc.png)
 
@@ -23,7 +23,7 @@ https://play.google.com/store/apps/details?id=com.wayabank
 ### Link to project : 
 https://play.google.com/store/apps/details?id=com.capricorn.baximobile.app&hl=en&gl=US
 
-### Baxi Mobile(Pos - Payment System)(Capricon-Digital)
+# Baxi Mobile(Pos - Payment System)(Capricon-Digital)
 
 ![jetp](https://user-images.githubusercontent.com/82580142/170806066-0f127457-c705-4a96-927e-0cb24f99f840.jpg)
 
