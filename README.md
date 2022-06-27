@@ -20,7 +20,7 @@ https://play.google.com/store/apps/details?id=com.wayabank
 * Performance Testing.
 ##### 100% Kotlin
 
-![jetp](https://user-images.githubusercontent.com/82580142/170806066-0f127457-c705-4a96-927e-0cb24f99f840.jpg)
+![New Tab - Google Chrome 5_28_2022 2_29_41 AM (2)](https://user-images.githubusercontent.com/82580142/175964785-c9e3bb4b-1360-4d35-97cb-fa611b972277.png)
 
 ### Link to project : 
 https://play.google.com/store/apps/details?id=com.capricorn.baximobile.app&hl=en&gl=US
