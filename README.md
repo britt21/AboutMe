@@ -20,12 +20,12 @@ https://play.google.com/store/apps/details?id=com.wayabank
 * Performance Testing.
 ##### 100% Kotlin
 
-![New Tab - Google Chrome 5_28_2022 2_29_41 AM (2)](https://user-images.githubusercontent.com/82580142/175964785-c9e3bb4b-1360-4d35-97cb-fa611b972277.png)
-
 ### Link to project : 
 https://play.google.com/store/apps/details?id=com.capricorn.baximobile.app&hl=en&gl=US
 
 ### Baxi Mobile(Pos - Payment System)(Capricon-Digital)
+
+![New Tab - Google Chrome 5_28_2022 2_29_41 AM (2)](https://user-images.githubusercontent.com/82580142/175964785-c9e3bb4b-1360-4d35-97cb-fa611b972277.png)
 
 #### Major Role
 * Integrating Figma Design Into apps implementation
