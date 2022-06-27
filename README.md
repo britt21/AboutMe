@@ -25,7 +25,6 @@ https://play.google.com/store/apps/details?id=com.capricorn.baximobile.app&hl=en
 
 ### Baxi Mobile(Pos - Payment System)(Capricon-Digital)
 
-![New Tab - Google Chrome 5_28_2022 2_29_41 AM (2)](https://user-images.githubusercontent.com/82580142/175964785-c9e3bb4b-1360-4d35-97cb-fa611b972277.png)
 
 #### Major Role
 * Integrating Figma Design Into apps implementation
@@ -42,6 +41,7 @@ https://play.google.com/store/apps/details?id=com.capricorn.baximobile.app&hl=en
 ### Link to project : 
 https://play.google.com/store/apps/details?id=com.capricorn.baximobile.app&hl=en&gl=US
 
+![New Tab - Google Chrome 5_28_2022 2_29_41 AM (2)](https://user-images.githubusercontent.com/82580142/175964785-c9e3bb4b-1360-4d35-97cb-fa611b972277.png)
 
 https://koenig-media.raywenderlich.com/uploads/2019/02/Clean-Architecture-Bob-650x454.png
 
