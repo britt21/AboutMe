@@ -4,6 +4,9 @@ My Names is Bright Ebube Ugwu and i am an Senior Android Developer with over 4 y
 # Professional Apps Created
 ### WayaBank (Mobile - Payment System)(Waya-Multilinks)
 
+### Link to project : 
+https://play.google.com/store/apps/details?id=com.wayabank
+
 #### Major Role
 * Integrating Figma Design Into apps implementation
 * Integrating SDKs for virtual Card
