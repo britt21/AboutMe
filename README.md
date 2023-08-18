@@ -1,7 +1,8 @@
 # AboutMe
 My Names is Bright Ebube Ugwu and i am an Senior Android Developer with over 4 years of experience building Mobile applications. I have a B.S.c degree in computer science, thus I have a solid foundation in the field also with a proven track record of delivering well-received and commercially viable apps. I help organizations develop end-to-end mobile applications from defining to design to its implementation. I have worked on wireframe designs, figma designs, integrating apps with APIs, designing UI's, and conducting google technical workshops.
 
-# Professional Apps Created
+# Professional Apps Created![Uploading 20230702160909.jpg…]()
+
 # WayaBank (Mobile - Payment System)(Waya-Multilinks)
 
 ![WAYABANK – Figma - Google Chrome 6_28_2022 3_16_43 AM (2)](https://user-images.githubusercontent.com/82580142/175964267-64cd05c1-dfba-468e-a27c-f3c91b884bcc.png)
@@ -25,7 +26,8 @@ https://play.google.com/store/apps/details?id=com.capricorn.baximobile.app&hl=en
 
 # Baxi Mobile(Pos - Payment System)(Capricon-Digital)
 
-![jetp](https://user-images.githubusercontent.com/82580142/170806066-0f127457-c705-4a96-927e-0cb24f99f840.jpg)
+![New Tab - Google Chrome 5_28_2022 2_29_41 AM (2)](https://user-images.githubusercontent.com/82580142/175964785-c9e3bb4b-1360-4d35-97cb-fa611b972277.png)
+
 
 ### Link to project : 
 https://play.google.com/store/apps/details?id=com.capricorn.baximobile.app&hl=en&gl=US
@@ -40,9 +42,11 @@ https://play.google.com/store/apps/details?id=com.capricorn.baximobile.app&hl=en
 * Performance Testing.
 ##### 100% Kotlin
 
+![jetp](https://user-images.githubusercontent.com/82580142/170806066-0f127457-c705-4a96-927e-0cb24f99f840.jpg)
 
 
-![New Tab - Google Chrome 5_28_2022 2_29_41 AM (2)](https://user-images.githubusercontent.com/82580142/175964785-c9e3bb4b-1360-4d35-97cb-fa611b972277.png)
+
+
 
 https://koenig-media.raywenderlich.com/uploads/2019/02/Clean-Architecture-Bob-650x454.png
 
