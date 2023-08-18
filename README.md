@@ -1,9 +1,10 @@
 # AboutMe
 My Names is Bright Ebube Ugwu and i am an Senior Android Developer with over 4 years of experience building Mobile applications. I have a B.S.c degree in computer science, thus I have a solid foundation in the field also with a proven track record of delivering well-received and commercially viable apps. I help organizations develop end-to-end mobile applications from defining to design to its implementation. I have worked on wireframe designs, figma designs, integrating apps with APIs, designing UI's, and conducting google technical workshops.
 
-# Professional Apps Created![Uploading 20230702160909.jpg…]()
+# Professional Apps
 
-# ThankUCash
+# ThankUCash (Ecommerce)
+https://github.com/britt21/AboutMe/assets/82580142/58ca2e33-2caa-4c34-a760-d7ef10f2813d
 ##### Roles
 • Design and build advanced applications for the Android platform.
 • Collaborate with cross-functional teams to define, design, and ship new features.
