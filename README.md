@@ -3,6 +3,16 @@ My Names is Bright Ebube Ugwu and i am an Senior Android Developer with over 4 y
 
 # Professional Apps Created![Uploading 20230702160909.jpg…]()
 
+# ThankUCash
+##### Roles
+• Design and build advanced applications for the Android platform.
+• Collaborate with cross-functional teams to define, design, and ship new features.
+• Work with outside data sources and API’s • Work on bug fixing and improving application performance.
+• Implement new technologies to increase development efficiency.
+• environment. • Follow the patterns of Test-Driven Development and continuous delivery.
+<img width="370" alt="Screenshot 2023-08-18 at 8 48 51 PM" src="https://github.com/britt21/AboutMe/assets/82580142/5ace6f56-6b0e-4f98-bf39-aefaf83593b3">
+
+
 # WayaBank (Mobile - Payment System)(Waya-Multilinks)
 
 ![WAYABANK – Figma - Google Chrome 6_28_2022 3_16_43 AM (2)](https://user-images.githubusercontent.com/82580142/175964267-64cd05c1-dfba-468e-a27c-f3c91b884bcc.png)
