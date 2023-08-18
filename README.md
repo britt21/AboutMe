@@ -3,6 +3,13 @@ My Names is Bright Ebube Ugwu and i am an Senior Android Developer with over 4 y
 
 # Professional Apps
 
+# Access More (FinTech/Banking)
+[https://github.com/britt21/AboutMe/assets/82580142/58ca2e33-2caa-4c34-a760-d7ef10f2813d](https://user-images.githubusercontent.com/82580142/261701976-85fcf49b-5bd4-4b76-a30a-2fb5aab2b31c.png)
+##### Roles
+• Implement and Deployed the BeeezePay feature of the Application
+• Implement and Deploye the InstantPay feature of the Application.
+• SpearHeaded and Published the AccessBank POS Terminal.
+
 # ThankUCash (Ecommerce)
 https://github.com/britt21/AboutMe/assets/82580142/58ca2e33-2caa-4c34-a760-d7ef10f2813d
 ##### Roles
@@ -11,6 +18,10 @@ https://github.com/britt21/AboutMe/assets/82580142/58ca2e33-2caa-4c34-a760-d7ef1
 • Work with outside data sources and API’s • Work on bug fixing and improving application performance.
 • Implement new technologies to increase development efficiency.
 • environment. • Follow the patterns of Test-Driven Development and continuous delivery.
+
+
+### Link to project : 
+https://play.google.com/store/apps/details?id=com.hm.thankucard&hl=en&gl=US
 
 
 
