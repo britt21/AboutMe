@@ -10,7 +10,8 @@ My Names is Bright Ebube Ugwu and i am an Senior Android Developer with over 4 y
 • Work with outside data sources and API’s • Work on bug fixing and improving application performance.
 • Implement new technologies to increase development efficiency.
 • environment. • Follow the patterns of Test-Driven Development and continuous delivery.
-<img width="370" alt="Screenshot 2023-08-18 at 8 48 51 PM" src="https://github.com/britt21/AboutMe/assets/82580142/5ace6f56-6b0e-4f98-bf39-aefaf83593b3">
+
+
 
 
 # WayaBank (Mobile - Payment System)(Waya-Multilinks)
