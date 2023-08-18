@@ -20,34 +20,11 @@ https://github.com/britt21/AboutMe/assets/82580142/58ca2e33-2caa-4c34-a760-d7ef1
 • environment. • Follow the patterns of Test-Driven Development and continuous delivery.
 
 
-### Link to project : 
-https://play.google.com/store/apps/details?id=com.hm.thankucard&hl=en&gl=US
+# Baxi Mobile(Pos - Payment System)(Capricon-Digital)
 
-
-
-
-# WayaBank (Mobile - Payment System)(Waya-Multilinks)
-
-![WAYABANK – Figma - Google Chrome 6_28_2022 3_16_43 AM (2)](https://user-images.githubusercontent.com/82580142/175964267-64cd05c1-dfba-468e-a27c-f3c91b884bcc.png)
-
-### Link to project : 
-https://play.google.com/store/apps/details?id=com.wayabank
-
-#### Major Role
-* Integrating Figma Design Into apps implementation
-* Integrating SDKs for virtual Card
-* Modularizating and Refactoring code base by implementing Solid Principles, abstraction classes and Interfaces
-* Integrating Virtual Card Payment Method
-* Perform Unit Testing, End to End Testing Speed Testing.
-* Memory Leak Testing.
-* Integration Testing
-* Performance Testing.
-##### 100% Kotlin
 
 ### Link to project : 
 https://play.google.com/store/apps/details?id=com.capricorn.baximobile.app&hl=en&gl=US
-
-# Baxi Mobile(Pos - Payment System)(Capricon-Digital)
 
 ![New Tab - Google Chrome 5_28_2022 2_29_41 AM (2)](https://user-images.githubusercontent.com/82580142/175964785-c9e3bb4b-1360-4d35-97cb-fa611b972277.png)
 
@@ -72,6 +49,32 @@ https://play.google.com/store/apps/details?id=com.capricorn.baximobile.app&hl=en
 
 
 https://koenig-media.raywenderlich.com/uploads/2019/02/Clean-Architecture-Bob-650x454.png
+
+### Link to project : 
+https://play.google.com/store/apps/details?id=com.hm.thankucard&hl=en&gl=US
+
+
+
+
+# WayaBank (Mobile - Payment System)(Waya-Multilinks)
+
+![WAYABANK – Figma - Google Chrome 6_28_2022 3_16_43 AM (2)](https://user-images.githubusercontent.com/82580142/175964267-64cd05c1-dfba-468e-a27c-f3c91b884bcc.png)
+
+### Link to project : 
+https://play.google.com/store/apps/details?id=com.wayabank
+
+#### Major Role
+* Integrating Figma Design Into apps implementation
+* Integrating SDKs for virtual Card
+* Modularizating and Refactoring code base by implementing Solid Principles, abstraction classes and Interfaces
+* Integrating Virtual Card Payment Method
+* Perform Unit Testing, End to End Testing Speed Testing.
+* Memory Leak Testing.
+* Integration Testing
+* Performance Testing.
+##### 100% Kotlin
+
+
 
 
 ## Crunch(ESoft-Response)
