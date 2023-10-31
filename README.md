@@ -63,6 +63,7 @@ https://play.google.com/store/apps/details?id=com.hm.thankucard&hl=en&gl=US
 ### Link to project : 
 https://play.google.com/store/apps/details?id=com.wayabank
 
+
 #### Major Role
 * Integrating Figma Design Into apps implementation
 * Integrating SDKs for virtual Card
