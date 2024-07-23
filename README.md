@@ -20,7 +20,7 @@ My Names are Bright Ebube Ugwu and i am an Senior Android Developer with over 8 
 • Code Reviews
 
 ## Technnologies
-Kotlin, Java, Jetpack compose, XML, Room database, AES, Figma
+Kotlin, Java, Jetpack compose, XML, Room database, AES, Figma, Websocket
 
 
 # Connected Analytics (Android/POS Developer) (Inventory/Payment Solution)
@@ -42,7 +42,7 @@ Kotlin, Java, Jetpack compose, XML, Room database, AES, Figma
 • Code Reviews
 
 ## Technnologies
-Kotlin, Java, XML, Room database, AES, Figma
+Kotlin, Java, XML, Room database, AES, Figma, Websocket
 
 
 # Baxi Mobile(Android/Pos Developer - Payment System)(Capricon-Digital)
@@ -59,7 +59,7 @@ Kotlin, Java, XML, Room database, AES, Figma
 • Code Reviews
 
 ## Technnologies
-Kotlin, Java, XML, Room database, AES, Figma
+Kotlin, Java, XML, Room database, AES, Figma, Websocket
 
 
 # WayaBank (Android/Flutter Developer)
