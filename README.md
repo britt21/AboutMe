@@ -64,6 +64,7 @@ Kotlin, Java, XML, Room database, AES, Figma, Websocket
 
 # WayaBank (Android/Flutter Developer)
 
+
 #### Major Role
 * Integrating Figma Design Into apps implementation
 * Integrating SDKs for virtual Card
